@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="prj">
+		<CBX_INST_ENTRY INSTANCE_NAME="|prj|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_hlm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|prj|lpm_mult:Mult0" CBX_FILE_NAME="mult_4et.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|prj|lpm_mult:Mult0|mult_4et:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_vvg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|prj|lpm_mult:Mult0|mult_4et:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_ov82.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
